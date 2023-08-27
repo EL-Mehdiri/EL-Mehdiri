@@ -6,7 +6,7 @@
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=el-mehdiri&label=Profile%20views&color=0e75b6&style=flat" alt="el-mehdiri" /> </p>
 
 
-Welcome to my GitHub portfolio. My name is **Mehdi Ridmani** I'm a passionate and skilled **Web Developer**. I’m interested in **Web development** , and this portfolio showcases some of my projects, contributions, and skills. 
+Welcome to my GitHub portfolio. My name is **Mehdi Ridmani** I'm a passionate and skilled **Web Developer**. I’m interested in **Web development** , and this portfolio showcases some of my projects, contributions, and skills. <br>
 Take a look around and feel free to reach out if you have any questions or collaboration opportunities!
 
 #### Feel free to reach out to me :
